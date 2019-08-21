@@ -3,7 +3,7 @@
 Sample app with express, pug, mongo.
 
 
-#Usecases
+##Usecases
 
 store listing, reviews, customer, user authentication, google map integration
 
